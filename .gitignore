@@ -1,0 +1,37 @@
+# Тимчасові папки Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Папки збірки (куди компілюються важкі файли)
+Debug/
+Release/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Скомпільовані та проміжні файли
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.aps
+*.pch
+*.idb
+*.tlog
+*.lastbuildstate
+*.log
+
+# Файли кешу ресурсів
+*.res
+*.resources
+
+# Тимчасові файли ОС
+.DS_Store
+Thumbs.db
